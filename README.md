@@ -17,7 +17,7 @@ A responsive, interactive **Quiz Application** built using **HTML, CSS, and Java
 
 # Demo
 
-Live Demo : [Click Here]([https://prasika-jain.github.io/Quiz/])  
+Live Demo : [Click Here](https://prasika-jain.github.io/Quiz/)  
 
 ---
 
