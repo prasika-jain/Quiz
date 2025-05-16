@@ -31,8 +31,8 @@ Live Demo : [Click Here](https://prasika-jain.github.io/quiz-app/)
 
 # Project Structure
 
-quiz-app/
-├── index.html: Main HTML file
-├── style.css: Styling file
-├── script.js: App logic and timer
-└── README.md: Project documentation
+Quiz :-
+- index.html: Main HTML file
+- style.css: Styling file
+- script.js: App logic and timer
+- README.md: Project documentation
